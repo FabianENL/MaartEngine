@@ -1,0 +1,4 @@
+Z:\programmeren\c#\MaartEngine\3D\MaartEngine3D\MaartEngine3D\obj\Debug\MaartEngine3D.csproj.AssemblyReference.cache
+Z:\programmeren\c#\MaartEngine\3D\MaartEngine3D\MaartEngine3D\obj\Debug\MaartEngine3D.GLFW1.Strings.resources
+Z:\programmeren\c#\MaartEngine\3D\MaartEngine3D\MaartEngine3D\obj\Debug\MaartEngine3D.csproj.GenerateResource.cache
+Z:\programmeren\c#\MaartEngine\3D\MaartEngine3D\MaartEngine3D\obj\Debug\MaartEngine3D.csproj.CoreCompileInputs.cache
